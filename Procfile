@@ -1,1 +1,1 @@
-web: yarn build --prefix client
+web: yarn prod --prefix client
